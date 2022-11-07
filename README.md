@@ -18,3 +18,5 @@ The data is available from 22 Jan, 2020.
 -  Country wise confirmed cases over the years
 -  Find the number of death cases for each country
 -  Find the max confirmed cases and their country for each of the years
+
+The screenshot of the output can be seen in the report file.
